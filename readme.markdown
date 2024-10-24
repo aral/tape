@@ -129,6 +129,7 @@ If you want a more colorful / pretty output there are lots of modules on npm tha
 - [tap-spec (emoji patch)](https://github.com/Sceat/tap-spec-emoji)
 - [tape-repeater](https://github.com/rgruesbeck/tape-repeater)
 - [tabe](https://github.com/Josenzo/tabe)
+- [tap-monkey](https://codeberg.org/small-tech/tap-monkey)
 
 To use them, try `node test/index.js | tap-spec` or pipe it into one of the modules of your choice!
 
